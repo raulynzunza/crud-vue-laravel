@@ -33,4 +33,8 @@ DB_PASSWORD={{ Your MySQL password }}
 - Open a terminal and run `php artisan serve`.
 - Open another terminal and run `npm run dev`.
 
+## Run tests
+
+- To run tests, run the command `php artisan test`
+
 And that's it! Go to the APP_URL that appears on your second terminal and you will be on the page 👌
